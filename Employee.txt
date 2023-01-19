@@ -1,0 +1,5 @@
+create table Employee(empid int ,empname String,empsal float,empdob date,emploc text)
+insert into Employee values(2345,'Ram',450000,'1-02-2022','Hyderabad')
+				   (2346,'Ramya',350000,'2-9-2022','Chennai')
+				   (2347,'Krishna',380000,'5-07-2022,'Banglore)
+				   (2348,'suma',450000,'2-04-2022,'Pune'));

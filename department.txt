@@ -1,0 +1,5 @@
+create table department(deptid int ,deptname String,deptloc String)
+insert into department values(2345,'Ram','Hyderabad')
+				     (2346,'Ramya','Chennai')
+				     (2347,'Krishna','Banglore)
+				     (2348,'suma','Pune'));
